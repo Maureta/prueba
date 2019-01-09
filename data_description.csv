@@ -1,0 +1,26 @@
+Variable,Description
+personid,Person ID (deidentified)
+teamid,Core team ID (deidentified)
+ocean_id,Larger group of students who take classes together (for some cohorts)
+a_international,Not a US Citizen nor a Permanent Resident
+a_consulting,Worked in consulting prior to business school
+a_engineering,Worked in engineering prior to business school
+a_finance,Worked in finance prior to business school
+a_graddegree,attended graduate school prior to business school
+a_years_of_experience_decile,Deciles of experience each year 10=highest
+a_std_verbal_decile,"Deciles of standardized-test verbal scores each year, 10=highest"
+a_std_quant_decile,Deciles of standardized-test quantitative scores  each year 10=highest
+a_std_total_decile,Deciles of standardized-test total scores each year 10=highest
+a_ugrad_US_gpa_decile,Undergraduate GPA decile for US Institutions
+s_track_ei,Entered Entrepreneurship Track
+s_track_finance,Entered Finance Track
+s_cumulativegpa_decile,Deciles of GPA in business school 5=highest
+s_gpa_fall_1_decile,Deciles of GPA in first-year fall semester 5=highest
+s_core_elective_finance,Chose Finance as Core Elective
+cdo_post_finance,First job after Sloan in Finance
+cdo_post_consulting,First job after Sloan in Consulting
+cdo_post_software,First job after Sloan in Software/IT
+cdo_post_marketing,First job after Sloan in Marketing
+cdo_post_operations,First job after Sloan in Operations
+cdo_post_other,First job after Sloan in Other field
+cdo_salary_decile,"Deciles in salary within each year, 10=highest"
